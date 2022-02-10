@@ -2,12 +2,12 @@
 Rest-assured-Falabella
 
 
-# yapo-test-api
+# falabella-test-api
 
 ###### ¿Cómo descargar el repositorio?
 Para clonar este proyecto, se procede como con cualquier otro repositorio.
 
-**1.** En el navegador, dirigete a *https://github.mpi-internal.com/Yapo/yapo-test-api* selecciona la opción *Clone or download* y copia la instrucción *SSH* o la *HTTPS* dependiendo de tu configuración de git. \
+**1.** En el navegador, dirigete a *https://github.com/navaswendy22/rest-assured-Falabella* selecciona la opción *Clone or download* y copia la instrucción *SSH* o la *HTTPS* dependiendo de tu configuración de git. \
 **2.** Abre la terminal y ubicate en la carpeta en donde quieras clonar el proyecto. \
 **3.** Cuando estés en la carpeta deseada, usa el comando `git clone nombre_del_repo_ssh_o_https` 
 
