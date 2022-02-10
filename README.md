@@ -4,6 +4,14 @@ Rest-assured-Falabella
 
 # falabella-test-api
 
+## Configuración Inicial Ambiente
+
+### Setup Ambiente Desarrollo
+
+- Install [JDK 8](https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html)
+- Install [Maven](https://maven.apache.org/install.html)
+- Install [Rest Assured](https://rest-assured.io/)
+
 ###### ¿Cómo descargar el repositorio?
 Para clonar este proyecto, se procede como con cualquier otro repositorio.
 
