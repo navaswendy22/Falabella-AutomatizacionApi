@@ -15,6 +15,17 @@ Ahora puedes importar el proyecto en tu IDE favorito. \
 Importar > Selecciona el proyecto > Importar como un proyecto Maven \
 Listo 😃
 
+### Running the tests
+Ejemplo:
+```
+Dirigirse a la carpeta: src => main => java => Runner => Runner
+
+Una vez allí, ingresas el tags que desea correr.
+Sin embargo por defecto trae el tags test, si presiona segundo click, luego run, se ejecutarán todos los test creados.
+
+Si desea ejecutar un solo test, solo se debe cambiar el tags por el de preferencia.
+```
+
 ###### ¿Cómo agregar un test nuevo?
 1. Agregar en la carpeta 'resources/feature' una carpeta con el nombre del microservicio al que le vamos a realizar los tests.
 2. Agregar en esa carpeta un archivo '.feature' con un nombre representativo de los endpoint o funcionalidad a probar. En la primera linea agregar un tag representativo para ejecutar todos los tags dentro de ese feature.
