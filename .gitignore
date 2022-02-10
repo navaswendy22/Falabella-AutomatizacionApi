@@ -1,0 +1,18 @@
+# OS generated files #
+######################
+**/.DS_Store
+dependency-reduced-pom.xml
+
+# Folders #
+######################
+/.idea/
+target/*
+/target/
+
+# Others files #
+######################
+.checkstyle
+.classpath
+.pmd
+.project
+.iml
